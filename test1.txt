@@ -3,8 +3,4 @@ New day new things
 
 
 
-<<<<<<< HEAD
-firse koi change hua new bracnh me(master me change for testing)
-=======
-firse koi change hua new bracnh me(bracnh1 ki testing)
->>>>>>> branch1
+firse koi change hua new bracnh me(final github change)
